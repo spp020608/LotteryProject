@@ -1,4 +1,4 @@
-module 2ticket
+module 3wechatShake
 
 go 1.20
 

@@ -1,6 +1,6 @@
 /*
-1 即开即得型
-2 双色球自选型
+1 即开即得型	http://localhost:8080/
+2 双色球自选型	http://localhost:8080/prize
 */
 package main
 
